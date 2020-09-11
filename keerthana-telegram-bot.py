@@ -35,3 +35,4 @@ dp.add_handler(CommandHandler('On',automationOn))
 dp.add_handler(CommandHandler('Off',automationOff))
 u.start_polling()
 u.idle()
+  
