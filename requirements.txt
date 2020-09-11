@@ -1,6 +1,3 @@
 adafruit-io
-Client,Feed
 python-telegram-bot
-Data
-Updater,CommandHandler
 requests
