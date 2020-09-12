@@ -1,4 +1,6 @@
 adafruit-io
 python-telegram-bot
 requests
-  
+Updater
+Client
+Data
