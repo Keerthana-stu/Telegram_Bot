@@ -1,4 +1,5 @@
 !pip install adafruit-io
+
 import os
 
 Adafruit_User = os.getenv(Adafruit_User)
@@ -35,4 +36,3 @@ dp.add_handler(CommandHandler('On',automationOn))
 dp.add_handler(CommandHandler('Off',automationOff))
 u.start_polling()
 u.idle()
-  
